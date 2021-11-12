@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+#Ivan Cvetković
 
-You can use the [editor on GitHub](https://github.com/ivancvetkovic/ivancvetkovic.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+##LIČNI PODACI:
+Adresa:		
+Braće Kostić 28, 16000 Leskovac, Srbija
+Datum rođenja:	
+12. April 1989
+email:ivan.ica.cvetkovic@gmail.com
+Mobilni:+381 69 737170
+Vozačka dozvola:	B
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Odgovorna i vredna osoba zeljna novih radnih iskustava, spremna za timski rad i sticanje novih znanja
+##OBRAZOVANJE
+###Fakultet za informacione tehnologije i inženjerstvo – Univerzitet Union Nikola Tesla - Beograd
+2019 – 2021
+Smer: Informacioni sistemi 	Stečeno zvanje: Diplomirani informatičar
+###IT AKADEMIJA - Beograd
+Kurs: PHP Web Development – U toku
+###Elektronski fakultet – Univerzitet u Nišu
+2008 - 2014
+Smer: Mikroelektronika i mikrosistemi
+###TŠ “Rade Metalac” - Leskovac
+2004 - 2008
+Smer: Elektrotehničar računara 		Stečeno zvanje: Elektrotehničar računara 
 
-```markdown
-Syntax highlighted code block
+##RADNO ISKUSTVO
+### TS “Rade Metalac” - Leskovac
+Radnik na održavanju računara
+dec. 2016 – nov. 2017
+-	servisiranje računara
+-	nabavka IT opreme 
+###Jeanci Serbia doo - Leskovac
+- referent nabavke
+dec. 2014 – dec. 2016
+-	kompletna nabavka
+-	praćenje potrošnje goriva i dnevne kilometraže, praćenje servisa vozila i raspored vozača
+-	polise osiguranja
+-	slanj i primanje pošiljaka u zemlji i inostranstvu
+-	održavanje računara i računarske mreže 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ivancvetkovic/ivancvetkovic.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+###PC “Digital” – Leskovac
+Serviser računara
+Mar- 2014 – avg. 2014
+-	servisiranje računara
+-	prodaja računara
+-	intervencije na terenu 
