@@ -9,15 +9,18 @@ email:ivan.ica.cvetkovic@gmail.com
 Mobilni:+381 69 737170
 Vozačka dozvola:	B
 
-
-
+###O meni:
 Odgovorna i vredna osoba zeljna novih radnih iskustava, spremna za timski rad i sticanje novih znanja
+
 ##OBRAZOVANJE
+
 ###Fakultet za informacione tehnologije i inženjerstvo – Univerzitet Union Nikola Tesla - Beograd
 2019 – 2021
 Smer: Informacioni sistemi 	Stečeno zvanje: Diplomirani informatičar
+
 ###IT AKADEMIJA - Beograd
 Kurs: PHP Web Development – U toku
+
 ###Elektronski fakultet – Univerzitet u Nišu
 2008 - 2014
 Smer: Mikroelektronika i mikrosistemi
@@ -26,11 +29,13 @@ Smer: Mikroelektronika i mikrosistemi
 Smer: Elektrotehničar računara 		Stečeno zvanje: Elektrotehničar računara 
 
 ##RADNO ISKUSTVO
+
 ### TS “Rade Metalac” - Leskovac
 Radnik na održavanju računara
 dec. 2016 – nov. 2017
 -	servisiranje računara
 -	nabavka IT opreme 
+
 ###Jeanci Serbia doo - Leskovac
 - referent nabavke
 dec. 2014 – dec. 2016
