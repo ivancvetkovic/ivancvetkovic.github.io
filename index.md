@@ -17,7 +17,7 @@ Odgovorna i vredna osoba zeljna novih radnih iskustava, spremna za timski rad i 
 Smer: Informacioni sistemi 	Stečeno zvanje: Diplomirani informatičar
 
 // IT AKADEMIJA - Beograd
-Kurs: PHP Web Development – U toku
+Kurs: PHP Web Development – 2021
 
 // Elektronski fakultet – Univerzitet u Nišu
 2008 - 2014
